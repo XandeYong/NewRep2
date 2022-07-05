@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="hello">Hello Stranges!</string>
+    <string name="clickText">Click this mdfk</string>
 </resources>
